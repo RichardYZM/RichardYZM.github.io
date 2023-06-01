@@ -74,6 +74,15 @@
   </url>
   
   <url>
+    <loc>http://example.com/2022/10/10/React%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E7%9A%84%E5%87%A0%E7%A7%8D%E6%96%B9%E5%BC%8F/</loc>
+    
+    <lastmod>2022-10-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://example.com/2022/09/24/gsap.to,%20gsap.from,%20gsap.formTo%20%E7%9A%84%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/</loc>
     
     <lastmod>2022-09-24</lastmod>
@@ -200,6 +209,15 @@
   </url>
   
   <url>
+    <loc>http://example.com/2021/06/02/Shopify%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%EF%BC%8C%E5%BA%94%E7%94%A8%E6%89%A9%E5%B1%95%E6%8F%92%E4%BB%B6%E5%BC%80%E5%8F%91/</loc>
+    
+    <lastmod>2021-06-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://example.com/2023/01/15/github+hexo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</loc>
     
     <lastmod>2021-01-15</lastmod>
@@ -211,7 +229,7 @@
 
   <url>
     <loc>http://example.com/</loc>
-    <lastmod>2023-05-31</lastmod>
+    <lastmod>2023-06-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -219,7 +237,7 @@
   
   <url>
     <loc>http://example.com/tags/React-Responsive/</loc>
-    <lastmod>2023-05-31</lastmod>
+    <lastmod>2023-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>

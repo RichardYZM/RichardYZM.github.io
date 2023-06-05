@@ -65,6 +65,15 @@
   </url>
   
   <url>
+    <loc>http://example.com/2022/11/02/%E5%9C%A8%20Window%E4%B8%8B%E8%B0%83%E8%AF%95%20ios%20%E7%9A%84%20Safari%20%E6%B5%8F%E8%A7%88%E5%99%A8/</loc>
+    
+    <lastmod>2022-11-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://example.com/2022/10/18/%E5%9C%A8%20Umi%20%E4%B8%AD%E6%89%93%E5%8C%85%E4%B8%8E%E5%8A%A0%E8%BD%BD%E8%87%AA%E5%AE%9A%E4%B9%89%E5%AD%97%E4%BD%93/</loc>
     
     <lastmod>2022-10-18</lastmod>
@@ -229,7 +238,7 @@
 
   <url>
     <loc>http://example.com/</loc>
-    <lastmod>2023-06-01</lastmod>
+    <lastmod>2023-06-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -237,7 +246,7 @@
   
   <url>
     <loc>http://example.com/tags/React-Responsive/</loc>
-    <lastmod>2023-06-01</lastmod>
+    <lastmod>2023-06-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>

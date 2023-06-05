@@ -1,8 +1,8 @@
 ---
 title: React 使用正则在字符串标签中插入组件
 cover: https://images.pexels.com/photos/866496/pexels-photo-866496.jpeg
-date: 2022-04-23 12:00:00
-updated: 2022-04-23 12:00:00
+date: 2022-07-30 12:00:00
+updated: 2022-07-30 12:00:00
 ---
 1. 最近遇到一个需求，需要将后端返回的字符串标签中的span标签替换为组件，且渲染在页面上，字符串标签的格式如下
 ```javascript

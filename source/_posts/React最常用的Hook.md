@@ -1,8 +1,8 @@
 ---
-title: React最常用的两个Hook
+title: React最常用的Hook
 cover: https://images.pexels.com/photos/3601422/pexels-photo-3601422.jpeg
-date: 2022-04-05 12:00:00
-updated: 2022-04-05 12:00:00
+date: 2022-06-26 12:00:00
+updated: 2022-06-26 12:00:00
 ---
 #### 1. 什么是hook
 hook是React 16.8新增的特性，专门用在函数式组件，它可以代替class组件中react的其他特性，是实际工作中要常用到的

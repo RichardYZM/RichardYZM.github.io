@@ -1,8 +1,8 @@
 ---
 title: React.memo、useMemo和useCallback
 cover: https://images.pexels.com/photos/1174732/pexels-photo-1174732.jpeg
-date: 2022-05-09 12:00:00
-updated: 2022-05-09 12:00:00
+date: 2022-09-13 12:00:00
+updated: 2022-09-13 12:00:00
 ---
 - 我们在使用React开发过程中经常会遇到父组件引入子组件的情况，在不做其他处理的时候，很容易造成子组件不必要的重复渲染。看下面一个的例子，这种情况下，每次父组件更新num值的时候，子组件也会重复渲染。
 

@@ -1,7 +1,7 @@
 ---
 title: 如何使用 js 向 iframe 内传参
 cover: https://images.pexels.com/photos/12136072/pexels-photo-12136072.jpeg
-date: 2023-01-11 12:00:00
+date: 2023-02-11 12:00:00
 updated: 2023-02-11 12:00:00
 ---
 # 1. 父页面

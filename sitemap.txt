@@ -24,6 +24,7 @@ http://example.com/2021/10/23/splice%E3%80%81slice%E3%80%81split%E5%92%8Cjoin/
 http://example.com/2021/09/17/%E5%89%8D%E7%AB%AF%E5%B8%B8%E7%94%A8%E7%9A%84%E5%87%A0%E4%B8%AA%E4%BB%A3%E7%A0%81%E7%89%87%E6%AE%B5/
 http://example.com/2021/08/23/React-grid-layout%E7%9A%84%E4%BD%BF%E7%94%A8/
 http://example.com/2021/06/02/React%E5%9F%BA%E7%A1%80/
+http://example.com/2021/03/21/Shopify%20%E5%BC%80%E5%8F%91%E4%B9%8B%E5%A6%82%E4%BD%95%E6%B7%BB%E5%8A%A0%E8%87%AA%E5%AE%9A%E4%B9%89%E4%BA%A7%E5%93%81%E6%A0%87%E7%AD%BE/
 http://example.com/2023/01/15/github+hexo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/
 http://example.com/2021/01/01/%E9%98%BFTemplate/
 http://example.com/

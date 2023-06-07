@@ -236,6 +236,15 @@
   </url>
   
   <url>
+    <loc>http://example.com/2021/03/21/Shopify%20%E5%BC%80%E5%8F%91%E4%B9%8B%E5%A6%82%E4%BD%95%E6%B7%BB%E5%8A%A0%E8%87%AA%E5%AE%9A%E4%B9%89%E4%BA%A7%E5%93%81%E6%A0%87%E7%AD%BE/</loc>
+    
+    <lastmod>2021-03-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://example.com/2023/01/15/github+hexo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</loc>
     
     <lastmod>2021-01-15</lastmod>

@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://example.com/2023/09/30/TypeScript%E5%85%A5%E9%97%A8%E4%B9%8B%E5%87%BD%E6%95%B0/</loc>
+    
+    <lastmod>2023-09-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://example.com/2023/08/26/TypeScript%E5%85%A5%E9%97%A8%E4%B9%8B%E7%B1%BB%E5%9E%8B/</loc>
     
     <lastmod>2023-08-26</lastmod>
@@ -292,7 +301,7 @@
 
   <url>
     <loc>http://example.com/</loc>
-    <lastmod>2023-08-31</lastmod>
+    <lastmod>2023-10-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -300,7 +309,7 @@
   
   <url>
     <loc>http://example.com/tags/React-Responsive/</loc>
-    <lastmod>2023-08-31</lastmod>
+    <lastmod>2023-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
